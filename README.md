@@ -1,6 +1,6 @@
 # trec
 
-A Clojure library designed to ... well, that part is up to you.
+Trabalho sobre conceitos de Teoria da Computação aplicadas usando Clojure. 
 
 ## Usage
 
